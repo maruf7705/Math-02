@@ -9,8 +9,9 @@
 @font-face {
     font-family: Roba-Regular;
     src: url(Fonts/Roba-Regular.woff2),
-    url(Fonts/Roba-Regular.woff);
+        url(Fonts/Roba-Regular.woff);
 }
+
 h1 {
     font-family: Roba-Regular;
     letter-spacing: 5px;
@@ -44,6 +45,6 @@ h4 {
     margin: auto;
     color: #37353E;
     font-family: "Alan Sans", sans-serif;
-    
+
 
 }
